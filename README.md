@@ -1,4 +1,4 @@
-# DataFrames Python cource
+# <p align="center">DataFrames Python Course</p>
 
 ## Labs
 
